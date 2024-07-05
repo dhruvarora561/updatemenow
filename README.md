@@ -9,4 +9,5 @@ It will use ```packer``` to apply the customizations to base windows 11 image an
 
 ## What do I need?
 1. Azure SPN
-2. Azure account 
+2. Azure account
+3. Packer added to your path
